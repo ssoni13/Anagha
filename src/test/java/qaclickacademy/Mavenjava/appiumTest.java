@@ -14,4 +14,10 @@ public class appiumTest {
 	{
 		System.out.println("ios");
 	}
+	
+	@Test
+	public void apple()
+	{
+		System.out.println("apple");
+	}
 }
