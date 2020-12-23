@@ -10,12 +10,16 @@ public class restApiTest {
 	{
 		System.out.println("postJira");
 		System.out.println("postJira1");
+		System.out.println("postJira2");
+		System.out.println("postJira3");
 	}
 	@Test
 	public void preJira()
 	{
 		System.out.println("preJira");
 		System.out.println("preJira1");
+		System.out.println("postJira4");
+		System.out.println("postJira5");
 	}
 
 }
