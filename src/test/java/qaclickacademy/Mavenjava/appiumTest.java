@@ -20,4 +20,10 @@ public class appiumTest {
 	{
 		System.out.println("apple");
 	}
+	
+	@Test
+	public void google()
+	{
+		System.out.println("google");
+	}
 }

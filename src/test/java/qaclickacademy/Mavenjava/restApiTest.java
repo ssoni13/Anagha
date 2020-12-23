@@ -30,5 +30,14 @@ public class restApiTest {
 		System.out.println("postJira8");
 		System.out.println("postJira9");
 	}
+	
+	@Test
+	public void production()
+	{
+		System.out.println("production1");
+		System.out.println("production2");
+		System.out.println("prodcution3");
+		System.out.println("prodcution4");
+	}
 
 }
